@@ -1,0 +1,7 @@
+{
+  "version": "1.0.9",
+  "download_url": "https://raw.githubusercontent.com/bluedotmarketing/bluedot-monitor/main/bluedot-monitor.zip",
+  "tested": "6.5",
+  "requires": "5.8",
+  "changelog": "<h4>1.0.9</h4><ul><li>Added real entry counts MTD with previous month comparison</li></ul><h4>1.0.8</h4><ul><li>Pull-based architecture</li></ul>"
+}
